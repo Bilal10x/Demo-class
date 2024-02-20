@@ -1,2 +1,2 @@
 # Demo-class
-This is  practice is Git and Github.
+This is  practice is Git and Githubs.
